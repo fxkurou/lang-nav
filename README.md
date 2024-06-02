@@ -4,7 +4,7 @@ This is a little Django project that contain a website header and nav bar that c
 
 ## Features
 
-This project implements a website header that contains a navigation and a language switcher. The navigation itself contains working links. Articles are selected from the database (translation too).
+This project implements a website header that contains a navigation and a language switcher. The navigation itself contains working links. Articles are selected from the database (translated articles too).
 
 ![image](https://github.com/fxkurou/lang-nav/assets/118657685/0553d793-ecff-45e2-acef-a509defe76ac)
 
