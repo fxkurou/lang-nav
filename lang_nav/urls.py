@@ -27,5 +27,6 @@ urlpatterns = [
 
 urlpatterns += i18n_patterns(
     path('<str:page_name>/', views.index, name='index'),
+    path('career/<str:page_name>/', views.index, name='career'),
     path('', RedirectView.as_view(url='home/', permanent=False), name='index'),
 )
